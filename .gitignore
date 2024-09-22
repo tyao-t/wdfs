@@ -1,0 +1,11 @@
+.DS_Store
+
+/bin/
+/build/
+
+*.o
+*.a
+*.exe
+
+*.log
+*.tmp
